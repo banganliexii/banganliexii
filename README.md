@@ -1,9 +1,9 @@
-# Hello World !👋🏼
+# Hello World ! 👋🏽
 
-###### Data Enthusiast
+###### a Indonesian Data Enthusiast
 
 <div align="center">
-  <img src="assets/gojo1.gif" alt="Profile Animation" width="750"/>
+  <img src="profile/gojo1.gif" alt="Profile Animation" width="700"/>
 </div>
 
 <p align="center">
@@ -11,7 +11,15 @@
   <img src="https://img.shields.io/github/followers/banganliexii?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+Machine+Learning+Engineer;AI+Enthusiast+%7C+Deep+Learning+Specialist;Building+the+Future+with+Data+%26+AI" alt="Typing Animation" />
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## About Me
 
@@ -19,21 +27,29 @@
 class DataScientist:
     def __init__(self):
         self.name = "Harbangan"
-        self.location = "Indonesia"
+        self.location = "East Jakarta, Indonesia"
         self.current_focus = ["Data Mining", "Machine Learning", "Deep Learning"]
         self.interests = ["AI Research", "Data Visualization", "Hackathons"]
-        self.fun_fact = "Shy around new people but confident with data! 📊"
+        self.fun_fact = "Shy around new people but confident with data!"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 ```
 
-## 🔥 Current Focus
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- 🌱 **Learning:** Advanced Machine Learning, Deep Learning, MLOps
-- 👯 **Collaborating:** Open to data science hackathons and AI projects
-- 🎯 **Goal:** Contributing to impactful AI solutions
-- 📫 **Reach me:** bangandude@gmail.com
+## Current Focus
+
+- **Learning:** Advanced Machine Learning, Deep Learning, MLOps
+- **Collaborating:** Open to data science hackathons and AI projects
+- **Goal:** Contributing to impactful AI solutions
+- **Reach me:** bangandude@gmail.com
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## Tech Stack
 
@@ -67,6 +83,10 @@ class DataScientist:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -78,16 +98,28 @@ class DataScientist:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=banganliexii&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=banganliexii&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=banganliexii&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## Let's Connect!
@@ -113,4 +145,6 @@ class DataScientist:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-_"Data is the new oil, but insights are the refined fuel that powers innovation!"_ 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Data+is+the+new+oil%2C+but+insights+are+the+refined+fuel;that+powers+innovation!" alt="Quote Animation" />
+</div>
