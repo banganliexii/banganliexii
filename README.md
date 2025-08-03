@@ -3,7 +3,7 @@
 ###### Indonesian AI Researcher & Data Scientist
 
 <div align="center">
-  <img src="profile/gojo1.gif" alt="Profile Animation" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1dngyMmljMG5sNjk5M2N2MnJmbXEyMTM0OXljeXJsZjJuNjBydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Profile Animation" width="700"/>
 </div>
 
 <p align="center">
