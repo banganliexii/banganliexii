@@ -1,6 +1,6 @@
 # Hello World ! 👋🏽
 
-###### a Indonesian Data Enthusiast
+###### a Indonesian Data Scientist
 
 <div align="center">
   <img src="profile/gojo1.gif" alt="Profile Animation" width="700"/>
@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Enthusiast+%7C+Machine+Learning;AI+Enthusiast+%7C+Build](https://motionbgs.com/media/5819/3d-digital-globe.960x540.mp4)ing+the+Future+with+Data+%26+AI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Science+%7C+Machine+Learning;AI+Enthusiast+%7C+Build](https://motionbgs.com/media/5819/3d-digital-globe.960x540.mp4)ing+the+Future+with+Data+%26+AI" alt="Typing Animation" />
 </div>
 
 ---
@@ -26,9 +26,9 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Harbangan"
+        self.name = "Harbangan Panjaitan"
         self.location = "East Jakarta, Indonesia"
-        self.current_focus = ["Data Mining", "Machine Learning", "Deep Learning"]
+        self.current_focus = ["Data Science", "Machine Learning", "Deep Learning"]
         self.interests = ["AI Research", "Data Visualization", "Hackathons"]
         self.fun_fact = "Shy around new people but confident with data!"
 
